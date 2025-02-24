@@ -18,6 +18,7 @@ Este proyecto es una aplicación web interactiva que permite a los usuarios agre
 │── 📄 style.css    # Estilos de la aplicación
 │── 📄 app.js       # Lógica del sorteo y gestión de amigos
 │── 📄 README.md    # Documentación del proyecto
+```
 
 ## 🛠️ Instalación y Uso
 1. Clona este repositorio o descarga los archivos.
