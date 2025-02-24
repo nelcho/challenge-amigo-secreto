@@ -11,7 +11,13 @@ Este proyecto es una aplicación web interactiva que permite a los usuarios agre
 - Oculta la lista de amigos después de iniciar el sorteo.
 
 ## 📂 Estructura del Proyecto
-📁 AmigoSecreto/ │── 📄 index.html # Estructura de la interfaz │── 📄 style.css # Estilos de la aplicación │── 📄 app.js # Lógica del sorteo y gestión de amigos │── 📄 README.md # Documentación del proyecto
+
+```plaintext
+📁 AmigoSecreto/
+│── 📄 index.html   # Estructura de la interfaz
+│── 📄 style.css    # Estilos de la aplicación
+│── 📄 app.js       # Lógica del sorteo y gestión de amigos
+│── 📄 README.md    # Documentación del proyecto
 
 ## 🛠️ Instalación y Uso
 1. Clona este repositorio o descarga los archivos.
